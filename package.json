@@ -2,7 +2,7 @@
   "name": "buyease",
   "version": "1.0.0",
   "description": "first individual project",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -17,5 +17,10 @@
   "bugs": {
     "url": "https://github.com/explorer-nemi/BuyEase/issues"
   },
-  "homepage": "https://github.com/explorer-nemi/BuyEase#readme"
+  "homepage": "https://github.com/explorer-nemi/BuyEase#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "mongoose": "^9.10.0",
+    "node": "^26.8.2"
+  }
 }
