@@ -1,0 +1,21 @@
+{
+  "name": "buyease",
+  "version": "1.0.0",
+  "description": "first individual project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/explorer-nemi/BuyEase.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/explorer-nemi/BuyEase/issues"
+  },
+  "homepage": "https://github.com/explorer-nemi/BuyEase#readme"
+}
